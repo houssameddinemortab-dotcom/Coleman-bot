@@ -1,7 +1,0 @@
-[build]
-builder = "nixpacks"
-
-[deploy]
-startCommand = "python xauusd_riley_reversal.py"
-restartPolicyType = "always"
-restartPolicyMaxRetries = 10
