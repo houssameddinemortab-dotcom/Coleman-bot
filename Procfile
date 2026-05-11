@@ -1,0 +1,1 @@
+worker: python xauusd_riley_reversal.py 2>/dev/null || python xauuzd_riley_reversal.py
